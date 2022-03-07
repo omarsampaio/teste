@@ -1,0 +1,35 @@
+.container-fluid-login{
+    background-color: #e02b57;
+    width: 50%;
+    height: 100%;
+    display: inline-block
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: inherit;
+    transform: translate(0%, 200%)
+}
+
+.container-fluid-minha-conta{
+    width: 50%;
+    height: 100%;
+    display: block;
+    margin-right: 0px;
+    float: right;
+    text-align: center;
+}
+
+.titulo{
+    transform: translate(0%, 290%);
+}
+
+.fundo2{
+    background-color: aliceblue;
+    width: 90%;
+    height: 30%;
+    transform: translate(6%, 110%);
+    border-radius: 15px
+}

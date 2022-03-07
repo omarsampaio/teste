@@ -1,0 +1,44 @@
+.container-fluid2{
+    background: #e02b57;
+    width: 50%;
+    height: 800px;
+    display: inline-block
+}
+
+.container-fluid-sua-conta{
+   width: 50%; height: 100%; display: block; margin-right: 0px; float: right; text-align: center;
+}
+
+.transform{
+    transform: translate(0%, 100%);
+}
+
+.fundo{
+    background-color: aliceblue;
+    width: 90%;
+    height: 620px;
+    transform: translate(6%, 14%);
+    border-radius: 15px
+}
+
+.logo-cadastro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: inherit;
+    transform: translate(0%, 200%)
+}
+
+.xis{
+    width: 30px;
+    transform: translate(30%, -360%)
+}
+
+.form-label-titulo{
+    float: left;
+    margin-bottom: 15px
+}
+
+#botao-entrar-continuar{
+    margin-top: 20px
+}

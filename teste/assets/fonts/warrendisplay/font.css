@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Warren Display";
+  src: url(v1/WarrenDisplay-Regular.woff2);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Warren Display";
+  src: url(v1/WarrenDisplay-RegularItalic.woff2);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Warren Display";
+  src: url(v1/WarrenDisplay-Bold.woff2);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Warren Display";
+  src: url(v1/WarrenDisplay-BoldItalic.woff2);
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Localized */
